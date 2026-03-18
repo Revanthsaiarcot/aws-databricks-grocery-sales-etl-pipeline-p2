@@ -344,12 +344,12 @@ This project is developed for **educational and research purposes**.
 ---
 
 ### Team Members
+- Revanth Sai Arcot
 - Manoj M D
 - Suhas S Chauhan
 - Rahul Garg
-- Revanth Sai Arcot
 - Bhaskar Rao Kodimela
 
 GitHub:
 
-https://github.com/Manojmd1
+https://github.com/Revanthsaiarcot/aws-databricks-grocery-sales-etl-pipeline-p2
